@@ -5,9 +5,11 @@
 ##[assignment-4]https://github.com/SindhujaThombarapu/Batch_5-AIML/blob/main/Assignment_4.ipynb
 ##[assignment-5]https://github.com/SindhujaThombarapu/Batch_5-AIML/blob/main/Assignment_5.ipynb
 ##[assignment-6]https://github.com/SindhujaThombarapu/Batch_5-AIML/blob/main/Assignment_6.ipynb
-##[assignment-10]https://github.com/SindhujaThombarapu/Batch_5-AIML/blob/main/Assignment_10.ipynb
+##[assignment-7]https://github.com/SindhujaThombarapu/Batch_5-AIML/blob/main/Assignment_7.ipynb
 ##[assignment-8]https://github.com/SindhujaThombarapu/Batch_5-AIML/blob/main/Assignment_8.ipynb
 ##[assignment-9]https://github.com/SindhujaThombarapu/Batch_5-AIML/blob/main/Lab09_RF_Classification_ipynb_txt.ipynb
+##[assignment-10]https://github.com/SindhujaThombarapu/Batch_5-AIML/blob/main/Assignment_10.ipynb
+
 
 
 
